@@ -21,7 +21,7 @@
     }
 
     window.onload = function() {
-        window.location.href = "http://shop.begforbags.com";
+        window.location.href = "https://shop.begforbags.com";
     }
 }());
 
